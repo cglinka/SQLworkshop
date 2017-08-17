@@ -1,2 +1,2 @@
-# SQLworkshop
-introduction to SQL
+# SQL
+WiDS Intro to SQL
